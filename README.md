@@ -1,5 +1,4 @@
-# cordova-upload-video-to-server
-
+# cordova-qrcode-scanner
 Plugin List 
 
 Cordova Plugin File</br>
